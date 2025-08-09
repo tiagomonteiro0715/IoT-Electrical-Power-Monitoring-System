@@ -4,7 +4,9 @@ Final Project from the class "Electrical Instrumentation and Measurements"
 
 Final project grade of 17 out of 20
 
-This project implements a real-time electrical power monitoring system using an ESP32 microcontroller. The system measures voltage, current, power, frequency, and power factor from electrical circuits and transmits the data to ThingSpeak cloud platform for remote monitoring and analysis.
+This project implements a real-time electrical power monitoring system using an ESP32 microcontroller. 
+
+The system measures voltage, current, power, frequency, and power factor from electrical circuits and transmits the data to ThingSpeak cloud platform for remote monitoring and analysis.
 
 ## Features
 
@@ -136,4 +138,5 @@ IME/
 - Tiago Monteiro
 
 - GitHub: @tiagomonteiro0715
+
 - LinkedIn: [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
