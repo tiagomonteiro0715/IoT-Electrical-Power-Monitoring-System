@@ -135,8 +135,11 @@ IME/
 - Iúri Moças
 - Duarte Pereira
 - Diogo Ferreira
-- Tiago Monteiro
+
+
+Tiago Monteiro
 
 - GitHub: @tiagomonteiro0715
 
 - LinkedIn: [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
